@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nuwan Bandara</h1>
 <h3 align="center">A passionate IT student</h3>
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIATE**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
