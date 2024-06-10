@@ -10,7 +10,7 @@
 
 ✔ A passionate IT student <br>
 ✔ Undergraduate <br>
-✔ Currently learning Web Development
+✔ Web Developer
 
 <br>
 
