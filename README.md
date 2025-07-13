@@ -9,9 +9,8 @@
 
 <br>
 
-✔ A passionate IT student <br>
-✔ Undergraduate <br>
-✔ Web Developer
+✔ Software Developer <br>
+✔ Undergraduate
 
 <br>
 
